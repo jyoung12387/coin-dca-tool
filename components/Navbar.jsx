@@ -103,6 +103,7 @@ export default function Navbar() {
 							<a
 								href="https://etherscan.io/address/0x677f672e5Ab3cd1eDE86B675990D335Da9D5d461"
 								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<Text
 									color={colorMode === "dark" ? "#9aaade" : "indigo.600"}

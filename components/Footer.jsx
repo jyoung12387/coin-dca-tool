@@ -11,7 +11,11 @@ export default function Footer() {
 			fontWeight="semibold"
 		>
 			<p>Data provided by&nbsp;</p>
-			<a href="https://www.coingecko.com/" target="_blank">
+			<a
+				href="https://www.coingecko.com/"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
 				<Text
 					color="indigo.600"
 					decoration="underline"
